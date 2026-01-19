@@ -2,7 +2,7 @@
 
 > **요구 역량 구현 프로젝트 01**
 
-<a href="https://www.notion.so/pj-01-2ed3d98c2bac804f9ae0e843d2880e18?source=copy_link" target="_blank" style="display:inline-flex;gap:4px;"><img alt="" resource="//ko.wikipedia.org/wiki/파일:Notion-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/120px-Notion-logo.svg.png" height="20" width="20">노션 바로가기</a>
+<a href="https://www.notion.so/pj-01-2ed3d98c2bac804f9ae0e843d2880e18?source=copy_link"><img alt="" resource="//ko.wikipedia.org/wiki/파일:Notion-logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/120px-Notion-logo.svg.png" height="20" width="20"> 노션 바로가기</a>
 
 ## 🛠 요구 역량 (Required Skills)
 
