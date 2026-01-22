@@ -16,6 +16,7 @@ export function DashboardView() {
 			<h1>Dashboard</h1>
 			<p>{data1.stats}</p>
 			<p>{data1.summary}</p>
+			<p>자동 배포 테스트</p>
 		</section>
 	);
 }
