@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router';
+import { Routes, Route, Link } from 'react-router';
 import { useState } from 'react';
 import reactLogo from './assets/react.svg';
 import viteLogo from '/vite.svg';
@@ -9,6 +9,9 @@ function ViteApp() {
 
 	return (
 		<>
+			<div>
+				<Link to='/dashboard'>go to dashboard</Link>
+			</div>
 			<div>
 				<a href='https://vite.dev' target='_blank'>
 					<img src={viteLogo} className='logo' alt='Vite logo' />
