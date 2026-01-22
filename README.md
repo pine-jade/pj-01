@@ -1,40 +1,16 @@
-# pj-01
+# React + Vite
 
-> **요구 역량 구현 프로젝트 01**
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<a href="https://www.notion.so/pj-01-2ed3d98c2bac804f9ae0e843d2880e18?source=copy_link"><img alt="" resource="//ko.wikipedia.org/wiki/파일:Notion-logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/120px-Notion-logo.svg.png" height="20" width="20"> 노션 바로가기</a>
+Currently, two official plugins are available:
 
-## 🛠 요구 역량 (Required Skills)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- **Framework:** React
-- **Interaction:** GSAP, Swiper
-- **Data:** AG Grid, MUI Charts
-- **Styling:** Tailwind CSS, styled-components
+## React Compiler
 
-## 🎯 구현 목표
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-- [ ] GSAP을 활용한 인터랙션 구현
-- [ ] Swiper를 이용한 슬라이드 UI 구축
-- [ ] AG Grid 기반의 데이터 관리 화면
-- [ ] MUI Chart를 활용한 데이터 시각화 및 커스텀
-- [ ] Tailwind CSS와 styled-components를 병행한 스타일링
+## Expanding the ESLint configuration
 
-## ⚡️ Getting Started
-
-### Installation
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-### Development
-
-Start the development server with HMR:
-
-```bash
-npm run dev
-```
-
-Your application will be available at `http://localhost:5173`.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
